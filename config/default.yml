@@ -2,8 +2,8 @@ server:
   port: 3000
 application:
   domain: juice-sh.op
-  name: 'OWASP Juice Shop'
-  logo: JuiceShop_Logo.png
+  name: 'People want Cyber'
+  logo: 
   favicon: favicon_js.ico
   numberOfRandomFakeUsers: 0
   showChallengeSolvedNotifications: true
