@@ -11,8 +11,8 @@ application:
   showVersionNumber: true
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   gitHubRibbon: true
-  twitterUrl: 'https://twitter.com/owasp_juiceshop'
-  facebookUrl: 'https://www.facebook.com/owasp.juiceshop'
+  twitterUrl: 'https://twitter.com/'
+  facebookUrl: 'https://www.facebook.com/'
   slackUrl: 'http://owaspslack.com'
   pressKitUrl: 'https://github.com/OWASP/owasp-swag/tree/master/projects/juice-shop'
   planetOverlayMap: orangemap2k.jpg
